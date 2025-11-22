@@ -11,7 +11,7 @@ A API fornece operações matemáticas básicas (soma, subtração, multiplicaç
 A API está publicada e acessível para testes através do seguinte endereço:
 
 **Base URL:**
-> `http://apiEng.great-site.net/api.php`
+> `https://mathapi.infinityfree.me/api.php?method=soma&a=5&b=10`
 
 ---
 
